@@ -9,7 +9,6 @@ streamlit
 matplotlib
 pandas
 numpy
-sqlite3
 yolov5
 clip-by-openai
 csv
