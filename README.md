@@ -1,6 +1,6 @@
 # Wasserstoff-AI-ML-Task
 
-## Image Processing and Object Recognition Project
+## Building AI Pipeline for Image Segmentation and Object Detection
 
 ### Overview
 
