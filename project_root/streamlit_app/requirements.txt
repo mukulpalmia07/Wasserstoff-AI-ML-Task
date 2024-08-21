@@ -1,6 +1,6 @@
 torch
 torchvision
-tranformers
+transformers
 tensorflow
 opencv-python
 pillow
