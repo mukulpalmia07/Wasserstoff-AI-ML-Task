@@ -9,5 +9,3 @@ streamlit
 matplotlib
 pandas
 numpy
-yolov5
-clip-by-openai
