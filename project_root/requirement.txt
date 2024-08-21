@@ -1,0 +1,12 @@
+plaintext
+torch
+torchvision
+tensorflow
+opencv-python
+pillow
+pytesseract
+streamlit
+matplotlib
+pandas
+yolov5
+clip-by-openai
