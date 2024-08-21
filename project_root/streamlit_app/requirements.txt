@@ -2,10 +2,10 @@ torch
 torchvision
 transformers
 tensorflow
-opencv-python
 pillow
 pytesseract
 streamlit
 matplotlib
 pandas
-numpy
+opencv-python==4.9.0.80
+numpy==1.26.4
