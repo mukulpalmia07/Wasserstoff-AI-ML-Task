@@ -4,7 +4,7 @@
 
 ### Overview
 
-- This project involves multi-step image processing and object recognition, including image segmentation, object extraction, identification, and summarization. The final goal is to map and present the data using a Streamlit UI. The project leverages various machine learning models and tools to analyze and interpret images effectively.
+- This project involves multi-step image processing and object recognition, including image segmentation, object extraction, identification, and summarization. The final goal is to map and present the data using a Streamlit UI. The project leverages various deep learning models and tools to analyze and interpret images effectively.
 
 #### Project Structure
 
