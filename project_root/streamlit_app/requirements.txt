@@ -11,5 +11,4 @@ pandas
 numpy
 yolov5
 clip-by-openai
-sys
 os
